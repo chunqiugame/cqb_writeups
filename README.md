@@ -1,2 +1,2 @@
 # cqb_writeups
-some writeups for ChunQiuBei
+some writeups for ChunQiuGAME
