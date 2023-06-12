@@ -27,4 +27,3 @@ key = long_to_bytes(abs(L[0][0]))
 cipher = AES.new(key=key, iv=bytes(range(16)), mode=AES.MODE_CBC)
 flag = cipher.decrypt(bytes.fromhex(enc))
 print(flag)
-# flag{182273bd-61f2-7147-acd8-d571de11bb40}
